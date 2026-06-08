@@ -1,4 +1,4 @@
-# Django Social Website
+# Django Social Website Codes
 
 This project was built while following *Django 5 By Example* by Antonio Melé.
 
@@ -37,50 +37,6 @@ This project demonstrates the development of a complete social platform using Dj
 
 ---
 
-## 📚 Project Structure (by chapters)
-
-### Chapter 4 — Building a Social Website
-- User authentication (login, logout, password reset/change)
-- User registration system
-- Custom user profile model
-- Media file configuration
-- Django admin user management
-
----
-
-### Chapter 5 — Social Authentication
-- Email-based authentication backend
-- Prevent duplicate email registration
-- Google OAuth integration
-- HTTPS development server setup
-- Authentication pipeline customization
-- Auto profile creation for social users
-
----
-
-### Chapter 6 — Sharing Content on Your Website
-- Image bookmarking system
-- Many-to-many relationships
-- Custom Django forms behavior
-- JavaScript bookmarklet
-- AJAX-style interactions
-- Image thumbnails with easy-thumbnails
-- Infinite scroll pagination
-
----
-
-### Chapter 7 — Tracking User Actions
-- Follow / unfollow system
-- Intermediate models for relationships
-- Activity stream system
-- Generic relations (ContentType framework)
-- Query optimization (select_related / prefetch_related)
-- Signals for denormalization
-- Redis integration (views counting + rankings)
-- Django Debug Toolbar for performance analysis
-
----
-
 ## ⚙️ Key Features
 
 - User registration and authentication system
@@ -92,18 +48,6 @@ This project demonstrates the development of a complete social platform using Dj
 - Redis-powered analytics (views & ranking system)
 - JavaScript-enhanced interactions
 - Performance optimization tools
-
----
-
-## 🚀 What I Learned
-
-- Building scalable Django applications step-by-step
-- Managing relational database models effectively
-- Implementing authentication systems (standard + social)
-- Using Redis for real-time data tracking
-- Improving query performance with Django ORM optimization
-- Integrating JavaScript with Django backend
-- Structuring full-stack web applications
 
 ---
 
@@ -120,28 +64,9 @@ pip install -r requirements.txt
 
 python manage.py migrate
 python manage.py runserver
-```
-
----
-
-## 📌 Notes
-
-This project is educational and follows a book-based learning path.  
-All features were implemented progressively following Django best practices.
-
----
-
-## 📷 Screenshots
-
-Add your chapter screenshots in a `/screenshots` folder (optional but recommended).
-
----
 
 ## 🔗 Related Repository
 
-Portfolio version:
-`building-a-social-website-portfolio`
+This project also includes a portfolio version that documents the development process and learning progression across chapters:
 
-Link for Building A Social Website Portfolio
-
-https://github.com/jeanmarc-webdev/building-a-social-website-portfolio
+👉 https://github.com/jeanmarc-webdev/building-a-social-website-portfolio
