@@ -65,6 +65,9 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
+👉 https://github.com/jeanmarc-webdev/building-a-social-website-portfolio
+
+
 ## 🔗 Related Repository
 
 This project also includes a portfolio version that documents the development process and learning progression across chapters:
