@@ -48,6 +48,8 @@ This project demonstrates the development of a complete social platform using Dj
 - Redis-powered analytics (views & ranking system)
 - JavaScript-enhanced interactions
 - Performance optimization tools
+- 👉 https://github.com/jeanmarc-webdev/building-a-social-website-portfolio
+
 
 ---
 
